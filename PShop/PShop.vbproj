@@ -6,6 +6,10 @@
     <Authors>jz5</Authors>
     <Company />
     <Description>Icon Resource Extractor/Packer for Photoshop</Description>
+    <PackageProjectUrl>https://github.com/jz5/pshop</PackageProjectUrl>
+    <Copyright>Copyright (c) 2017 jz5</Copyright>
+    <PackageLicenseUrl>https://raw.githubusercontent.com/jz5/pshop/master/LICENSE</PackageLicenseUrl>
+    <PackageTags />
   </PropertyGroup>
 
   <ItemGroup>
