@@ -3,7 +3,7 @@ Icon Resource Extractor/Packer libraries for Photoshop
 
 ## NuGet
 
-https://preview.nuget.org/packages/PShop.CC.IconResources
+https://www.nuget.org/packages/PShop.CC.IconResources
 
 ## Online service
 
